@@ -1,0 +1,26 @@
+Here is a report generated through the Sales Analysis application for Aditya's Coffee Shop
+Summary for 2024: total sales = $4.5, total quantity sold = 1
+
+	Espresso: 
+		total sales = $4.5, total quantity sold = 1
+
+Summary for 2025: total sales = $352.5, total quantity sold = 78
+
+	Espresso: 
+		total sales = $23.75, total quantity sold = 6
+	Latte: 
+		total sales = $85.5, total quantity sold = 19
+	Cappuccino: 
+		total sales = $49.0, total quantity sold = 10
+	Mocha: 
+		total sales = $45.5, total quantity sold = 8
+	Americano: 
+		total sales = $18.75, total quantity sold = 5
+	Croissant: 
+		total sales = $32.75, total quantity sold = 8
+	Muffin: 
+		total sales = $29.25, total quantity sold = 7
+	Flat White: 
+		total sales = $41.0, total quantity sold = 8
+	Tea: 
+		total sales = $27.0, total quantity sold = 7
